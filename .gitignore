@@ -9,4 +9,5 @@ __pycache__/
 *.toc
 *.fls
 *.fdb_latexmk
-*.synctex.gz
+rapport_s2/
+docs/rapport/rapport_s2/

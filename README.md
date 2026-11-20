@@ -36,14 +36,10 @@ Banc d'essai comparatif de métaheuristiques bio-inspirées et d'intelligence di
 ├── notebooks/                    # Notebooks Jupyter
 │   ├── notebook_s2.ipynb         # Validation complète Semaine 2 de bout en bout
 │   └── 02_outils_agent.ipynb     # Démonstration des outils agents
-├── rapport_s2/                   # Rapport technique complet Semaine 2 (Membre B)
-│   ├── rapport_semaine2_Leila_khezaz.pdf  # Rapport finalisé (exactement 12 pages)
-│   ├── rapport_semaine2_membreB.tex       # Source LaTeX documenté
-│   ├── generate_figures.py                # Script de génération des figures haute résolution
-│   └── figures/                           # Graphiques et métriques réelles (15 graines)
 ├── docs/                         # Documentation technique et notes d'équipe
 │   ├── HANDOFF_NOTES.md          # Notes de transmission (hyperparamètres, formules, outils)
-│   └── rapport/rapport_s2/       # Archive miroir du rapport S2
+│   ├── convergence_sphere_dim5_medianes.png
+│   └── pso_w_convergence_divergence.png
 └── requirements.txt              # Dépendances logicielles du projet
 ```
 
